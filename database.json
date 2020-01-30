@@ -6,12 +6,7 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/991594da9ad2728aac9b92a0b89f77d2.git:TheCalledScript.groovy": [
-      "https://gist.github.com/991594da9ad2728aac9b92a0b89f77d2.git",
-      "TheCalledScript.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.3.1",
