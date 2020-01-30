@@ -1,5 +1,10 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://gist.github.com/991594da9ad2728aac9b92a0b89f77d2.git": [
+      "GIST: TheCalledScript.groovy",
+      "1580409624669"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {
     "https://gist.github.com/991594da9ad2728aac9b92a0b89f77d2.git:TheCalledScript.groovy": [
