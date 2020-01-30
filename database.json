@@ -1,14 +1,21 @@
 {
   "workspace": {},
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/991594da9ad2728aac9b92a0b89f77d2.git:TheCalledScript.groovy": [
+      "https://gist.github.com/991594da9ad2728aac9b92a0b89f77d2.git",
+      "TheCalledScript.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "firstVersion": "1.3.1",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
     "fontsize": 12.0,
-    "skinBranch": "0.25.2",
+    "skinBranch": "1.3.1",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true
+    "notifiedArduinoDep": true,
+    "currentVersion": "1.3.1"
   }
 }
